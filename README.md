@@ -1,27 +1,25 @@
 # Lelyetia
 
-[GitHub](https://github.com/Lelyetia) · [Stars](https://github.com/Lelyetia?tab=stars) · [Email](mailto:zhoulyd@126.com) · [English](#english)
+[中文](#中文) · [English](#english) · [GitHub](https://github.com/Lelyetia) · [Stars](https://github.com/Lelyetia?tab=stars) · [Email](mailto:lelyetia@gmail.com)
 
 [![Followers](https://img.shields.io/github/followers/Lelyetia?style=flat-square&logo=github&label=Followers&color=7aa2f7)](https://github.com/Lelyetia?tab=followers)
 [![Stars](https://img.shields.io/github/stars/Lelyetia?style=flat-square&logo=github&label=Stars&color=bb9af7)](https://github.com/Lelyetia?tab=repositories)
 
-## 个人介绍
+## 中文
 
-你好，我是 **Lelyetia**。关注**计算机视觉、医学图像分割与深度学习**，喜欢探索图像中的结构与语义，以及算法在医学图像中的应用。
+### 个人介绍
 
-希望在这里把想法变成代码，把探索整理成可以分享的项目与笔记。
+你好，我是 **Lelyetia**，来自中国，目前在**山东第一医科大学**攻读本科学位。
 
-## 技术兴趣
+我的研究关注**医学数据与人工智能算法的结合**，主要方向是**医学图像分割**。
 
-- **计算机视觉**：图像理解与视觉表示。
-- **医学图像**：生物医学图像分割。
-- **深度学习**：视觉任务中的深度学习方法。
+主要学习内容包括传统机器学习、深度学习、计算机视觉、医学图像处理和计算机图形学。
 
-## 联系交流
+### 联系交流
 
-欢迎交流**图像分割、计算机视觉与开源实践**。
+欢迎与我交流学习经验等相关内容。
 
-**Email** · [zhoulyd@126.com](mailto:zhoulyd@126.com) · [zhouluoyidi@gmail.com](mailto:zhouluoyidi@gmail.com)
+**Email** · [lelyetia@gmail.com](mailto:lelyetia@gmail.com) · [zhouluoyidi@gmail.com](mailto:zhouluoyidi@gmail.com)
 
 ### GitHub 奖杯
 
@@ -34,23 +32,21 @@
 
 [![连续贡献记录](https://streak-stats.demolab.com/?user=Lelyetia&theme=tokyonight&hide_border=true&disable_animations=true&locale=zh_Hans&timezone=Asia%2FShanghai)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-## Personal Introduce
+## English
 
-Hi, I'm **Lelyetia**. I'm interested in **computer vision, medical image segmentation, and deep learning**, and enjoy exploring structure and semantics in images, as well as the applications of algorithms to medical imaging.
+### About Me
 
-I hope to turn ideas into code here and share my explorations through projects and notes.
+Hi, I'm **Lelyetia**, from China and currently pursuing an undergraduate degree at **Shandong First Medical University**.
 
-## Interests
+My research focuses on **combining medical data with artificial intelligence algorithms**, primarily in **medical image segmentation**.
 
-- **Computer vision**: image understanding and visual representations.
-- **Medical imaging**: biomedical image segmentation.
-- **Deep learning**: deep learning methods for visual tasks.
+My studies cover traditional machine learning, deep learning, computer vision, medical image processing, and computer graphics.
 
-## Connect
+### Connect
 
-I welcome conversations about **image segmentation, computer vision, and open-source work**.
+I welcome conversations about learning experiences and related topics.
 
-**Email** · [zhoulyd@126.com](mailto:zhoulyd@126.com) · [zhouluoyidi@gmail.com](mailto:zhouluoyidi@gmail.com)
+**Email** · [lelyetia@gmail.com](mailto:lelyetia@gmail.com) · [zhouluoyidi@gmail.com](mailto:zhouluoyidi@gmail.com)
 
 ### GitHub Trophies
 
